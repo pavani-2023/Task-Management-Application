@@ -1,0 +1,33 @@
+.task-controls {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+  }
+  
+  .task-controls input {
+    padding: 5px;
+  }
+  
+  .task-columns {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .task-column {
+    width: 30%;
+    padding: 10px;
+    background-color: #f1f1f1;
+  }
+  
+  .task-card {
+    background-color: #e3f2fd;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  button {
+    margin-right: 5px;
+    padding: 5px;
+    cursor: pointer;
+  }
